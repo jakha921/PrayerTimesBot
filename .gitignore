@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+tmp/
+logs/
+.idea
+.git
+.vscode
+.env
+.venv
+*.ini
+*.zip
+*.log
+bot.ini
