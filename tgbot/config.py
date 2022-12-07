@@ -1,6 +1,5 @@
 import configparser
 from dataclasses import dataclass
-from tkinter import getboolean
 
 
 @dataclass
